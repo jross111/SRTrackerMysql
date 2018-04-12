@@ -1,0 +1,502 @@
+[
+  {
+    "description": "GRP GREEN 19 LB ",
+    "price": " $2.99/lb",
+    "quantity": " 0.93lbs",
+    "total": " $2.78",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "SK LEMON 115 ",
+    "price": " $0.60/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.60",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "SK LEMON 115 ",
+    "price": " $0.60/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.60",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": " BEAN GREEN BIN 26 ",
+    "price": " $1.80/lb",
+    "quantity": " 0.54lbs",
+    "total": " $0.97",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "SQUASH GREEN 20LB ",
+    "price": " $1.49/lb",
+    "quantity": " 0.83lbs",
+    "total": " $1.24",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "SCALLION 48S* ",
+    "price": " $0.83/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.83",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "ASPARAGUS STNDRD 1 ",
+    "price": " $2.49/lb",
+    "quantity": " 1.00lbs",
+    "total": " $2.49",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "LETT ROMAINE CAL* ",
+    "price": " $1.99/lb",
+    "quantity": " 1.04lbs",
+    "total": " $2.07",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "PEP JALAPENO 36 ",
+    "price": " $1.99/lb",
+    "quantity": " 1.74lbs",
+    "total": " $3.46",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "POT WHITE A'S 50LB ",
+    "price": " $0.99/lb",
+    "quantity": " 3.97lbs",
+    "total": " $3.93",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "BCH CILANTRO TRIMM ",
+    "price": " $0.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "BLUEBERRY 6Z* ",
+    "price": " $2.50/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.50",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CB XSHRP CHEDR YLW ",
+    "price": " $2.59/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.59",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CB NY AGED RESERVE ",
+    "price": " $2.59/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.59",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "BREAK SOUR CREAM ",
+    "price": " $2.24/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.24",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "BREAK SOUR CREAM ",
+    "price": " $2.24/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.24",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "PHILA LT NEUFCHATE ",
+    "price": " $1.67/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.67",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "FRND IC DBL CC CKI ",
+    "price": " $2.89/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.89",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CARROTS 1 LB ISRAE ",
+    "price": " $0.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "DAN YOG WM STRAWBE ",
+    "price": " $2.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "SR ORG TURKEY CK S ",
+    "price": " $1.89/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.89",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "SR G-A X LRG EGGS ",
+    "price": " $2.89/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.89",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "SR HVD -QUART MILK ",
+    "price": " $1.39/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.39",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "COOL WHIP 8Z ",
+    "price": " $1.79/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.79",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "COOL WHIP MX-INS O ",
+    "price": " $1.79/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.79",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CHI CHI SFT TACO 1 ",
+    "price": " $1.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "TH CINN RSN SWIRL ",
+    "price": " $2.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "EVRY PRETZEL CRISP ",
+    "price": " $1.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "POLLY-O MOZZARELLA ",
+    "price": " $4.34/ea",
+    "quantity": " 1.00 ",
+    "total": " $4.34",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "G&M DOUBLE PROTEIN ",
+    "price": " $2.24/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.24",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "ARNOLD EG CRK WHT ",
+    "price": " $2.24/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.24",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "HELVA MNT JACK JLP ",
+    "price": " $3.19/ea",
+    "quantity": " 1.00 ",
+    "total": " $3.19",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "DR PEPPER DIET ",
+    "price": " $0.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.99",
+    " ShopRite Digital Receipt": "TF "
+  },
+  {
+    "description": "DR PEPPER DIET ",
+    "price": " $0.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.99",
+    " ShopRite Digital Receipt": "TF "
+  },
+  {
+    "description": "S/B 4/7 TURKEY BRS ",
+    "price": " $1.99/lb",
+    "quantity": " 10.18lbs",
+    "total": " $20.26",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "PERDUE TENDERS F ",
+    "price": " $5.87/lb",
+    "quantity": " 1.59lbs",
+    "total": " $9.33",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "BB PS CHEDDAR ",
+    "price": " $4.02/lb",
+    "quantity": " 0.51lbs",
+    "total": " $2.05",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "GROUND BEEF & PORK ",
+    "price": " $3.99/lb",
+    "quantity": " 1.33lbs",
+    "total": " $5.31",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "Reduce GROC ",
+    "price": " $2.12/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.12",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "Reduce GROC ",
+    "price": " $2.12/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.12",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "Reduce GROC ",
+    "price": " $2.13/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.13",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "ONION RED/YELLOW ",
+    "price": " $2.99/ea",
+    "quantity": " 1.00 ",
+    "total": " $2.99",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CHOB GRK HINT BLUE ",
+    "price": " $1.28/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CHOB GRK HINT BLUE ",
+    "price": " $1.28/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CHOB GRK HINT STRW ",
+    "price": " $1.28/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "CHOB GRK HINT MANG ",
+    "price": " $1.28/ea",
+    "quantity": " 1.00 ",
+    "total": " $1.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "GROCERY ",
+    "price": " $0.29/ea",
+    "quantity": " 1.00 ",
+    "total": " $0.29",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** TURKEY BRST COUPON ",
+    "price": " - $19.90/lb",
+    "quantity": " 10.00 ",
+    "total": " - $19.90",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "**SC** EL Heluva Good Chu ",
+    "price": " - $1.20/ea",
+    "quantity": " 1.00 ",
+    "total": " - $1.20",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC ShopRite Organi ",
+    "price": " - $0.40/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.40",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC COOL WHIP TOPPI ",
+    "price": " - $1.60/ea",
+    "quantity": " 1.00 ",
+    "total": " - $1.60",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Cracker Barrel ",
+    "price": " - $0.60/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.60",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Cracker Barrel ",
+    "price": " - $0.60/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.60",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Polly O Mozzare ",
+    "price": " - $2.35/ea",
+    "quantity": " 1.00 ",
+    "total": " - $2.35",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Friendly s Ice ",
+    "price": " - $0.90/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.90",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Breakstone s So ",
+    "price": " - $0.75/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.75",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Breakstone s So ",
+    "price": " - $0.75/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.75",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Chobani Greek Y ",
+    "price": " - $0.28/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Chobani Greek Y ",
+    "price": " - $0.28/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Chobani Greek Y ",
+    "price": " - $0.28/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Chobani Greek Y ",
+    "price": " - $0.28/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.28",
+    " ShopRite Digital Receipt": "F "
+  },
+  {
+    "description": "**SC** PC Green Asparagus ",
+    "price": " - $0.50/lb",
+    "quantity": " 1.00 ",
+    "total": " - $0.50",
+    " ShopRite Digital Receipt": "FWT "
+  },
+  {
+    "description": "**MC** PAPER COUPON ",
+    "price": " - $0.55/ea",
+    "quantity": " 1.00 ",
+    "total": " - $0.55",
+    " ShopRite Digital Receipt": " "
+  },
+  {
+    "description": "# OF ITEMS:",
+    "price": " 47",
+    "quantity": " "
+  },
+  {
+    "description": " ",
+    "price": " ",
+    "quantity": " ",
+    "total": " "
+  },
+  {
+    "description": "TOTAL COUPON(s):",
+    "price": " $31.22 ",
+    "quantity": " "
+  },
+  {
+    "description": "SUBTOTAL:",
+    "price": " $91.87 ",
+    "quantity": " "
+  },
+  {
+    "description": "TAX: ",
+    "price": " $0.07",
+    "quantity": " "
+  },
+  {
+    "description": "TOTAL:",
+    "price": " $91.94 ",
+    "quantity": " "
+  },
+  {
+    "description": "REGISTER #",
+    "price": "0015",
+    "quantity": " "
+  },
+  {
+    "description": "TRANSACTION #",
+    "price": "0119",
+    "quantity": " "
+  },
+  {
+    "description": "PAYMENT METHOD(s):",
+    "price": "",
+    "quantity": " "
+  },
+  {
+    "description": ""
+  },
+  {
+    "description":
+      "                                                            VISA ",
+    "price": " $91.94"
+  },
+  {
+    "description": "PRICE PLUS CLUB #",
+    "price": "47108609283 ",
+    "quantity": ""
+  }
+]
